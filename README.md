@@ -1,8 +1,8 @@
 👋  Hey, I'm David.
 
 👀  I'm interested in Cloud Security,
-incident response, and being more
-efficent through automation. 
+Incident Response, protecting companies from 
+bad guys and automation efficiency.  
 
 🌱  I'm currently learning Linux,
 AWS, Terraform, Docker and many
