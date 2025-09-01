@@ -4,9 +4,9 @@
 Incident Response, protecting companies from 
 bad guys and automation efficiency.  
 
-🌱  I'm currently learning Linux,
-AWS, Terraform, Docker and many
-other Security Frameworks. 
+🌱  I'm diving into cloud security (IAM, network 
+security, and encryption on AWS) to become a 
+better problem-solver for customers.
 
 📫  Best way to reach me
 https://www.linkedin.com/in/david-yeti/ 
