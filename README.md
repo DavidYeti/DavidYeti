@@ -5,7 +5,7 @@ I'm a Cloud Security Professional who builds secure systems, communicates their 
 ---
 
 ## What I'm Learning 🌱
-* **AWS Cloud Security**: IAM, network security, and encryption. My focus is on mastering cloud security technologies on AWS to become a more effective problem-solver.
+**AWS Cloud Security**: IAM, network security, and encryption. My focus is on mastering cloud security technologies on AWS to become a more effective problem-solver.
 
 ---
 
