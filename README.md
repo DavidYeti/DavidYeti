@@ -13,10 +13,9 @@ Mastering **AWS, ISC2, SANS, and CompTIA** certifications.
 
 ## Connect with the Community 📫
 Join the **Rainmakers**! Follow the full journey and join the live shows:
-* **[YouTube Channel]**(https://www.youtube.com/@DavidYeti)
+* **[YouTube Channel](https://www.youtube.com/@DavidYeti)**
 * [LinkedIn Profile](https://www.linkedin.com/in/david-yeti/) 
 * [Your TryHackMe Profile](https://tryhackme.com/p/DavidYeti)
-* $$$$[Your Discord Server Link]$$$$
 
 ---
 
