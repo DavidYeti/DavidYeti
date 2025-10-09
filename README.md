@@ -1,6 +1,6 @@
 # David Yeti: The AE Pipeline 💰
 
-I'm a **Security SDR II** charting my path to Account Executive (AE) at a major tech company. I focus on building secure cloud systems and bridging technical architecture with high-level **business/ROI** value.
+I'm a **Security SDR II** charting my path to Security Account Executive (AE) at a major tech company. I focus on building secure cloud systems and bridging technical architecture with high-level **business/ROI** value.
 
 ---
 
@@ -13,8 +13,9 @@ Mastering **AWS, ISC2, SANS, and CompTIA** certifications.
 
 ## Connect with the Community 📫
 Join the **Rainmakers**! Follow the full journey and join the live shows:
-* **[YouTube Channel](https://www.youtube.com/@DavidYeti)**
-* [LinkedIn Profile](https://www.linkedin.com/in/david-yeti/) 
+* **[YouTube Channel](https://www.youtube.com/@iamDavidYeti)**
+* [LinkedIn Profile](https://www.linkedin.com/in/davidyeti/)
+* [X Profile](https://x.com/iamdavidyeti)
 * [Your TryHackMe Profile](https://tryhackme.com/p/DavidYeti)
 
 ---
