@@ -1,24 +1,24 @@
-# David Yeti: The AE Pipeline 💰
+# David Yeti | DevSecOps Architect & Technical Consultant 💰
 
-I'm a **Security SDR II** charting my path to Security Account Executive (AE) at a major tech company. I focus on building secure cloud systems and bridging technical architecture with high-level **business/ROI** value.
-
----
-
-## What I'm Learning / Documenting 🧠
-Mastering **AWS, ISC2, SANS, and CompTIA** certifications.
-* **Study Hall:** Live study sessions on YouTube documenting the technical grind (IAM, network security, application-level vulns).
-* **Hustletology:** Tactical strategy on compensation, 401k, and career influence.
+I architect secure cloud systems and bridge the gap between complex technical infrastructure and high-level **Business ROI**. As the founder of **The FI Blueprint**, I document the technical and financial path to achieving $100K+ in the modern tech landscape.
 
 ---
+## Technical Focus & Documentation 🧠
+I am currently architecting and documenting production-ready environments focusing on **AWS, Kubernetes, and DevSecOps** automation.
 
-## Connect with the Community 📫
-Join the **Rainmakers**! Follow the full journey and join the live shows:
-* **[YouTube Channel](https://www.youtube.com/@iamDavidYeti)**
-* [LinkedIn Profile](https://www.linkedin.com/in/davidyeti/)
-* [X Profile](https://x.com/iamdavidyeti)
-* [Your TryHackMe Profile](https://tryhackme.com/p/DavidYeti)
+* 🧠 **Study Hall:** Deep-dive technical documentation for AWS Professional, CISSP, and SANS mastery.
+* 🚀 **The FI Blueprint:** Engineering the roadmap from entry-level to high-authority technical roles.
+* 💰 **Hustletology:** Strategic analysis of market shifts, career scaling, and financial independence.
 
 ---
+## The Rainmaker Ecosystem 📫
+Join the community of professionals transcending the "9-to-5" to build true authority:
 
-## Fun Fact ⚡
-I balance this technical pursuit with a full-time sales career and family—a true testament to **The Grind** (my monthly vlog series).
+* 📺 **[YouTube](https://www.youtube.com/@davidyeti)** - Technical Architecture & Career Strategy
+* 📱 **[TikTok](https://www.tiktok.com/@iamdavidyeti)** - Short-form Technical Strategy & FI Blueprint
+* 🌐 **[Official Website](https://davidyeti.com)** - The FI Blueprint & Technical Lab
+* 💼 **[LinkedIn](https://www.linkedin.com/in/davidyeti/)** - Professional Consulting Profile
+---
+## ⚡ The Rainmaker Philosophy
+I believe technical excellence is the ultimate lever for financial freedom. I balance deep-work engineering with strategic consulting—proving that with the right blueprint, any aspiring tech professional can achieve **Rainmaker** status.
+
