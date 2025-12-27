@@ -19,6 +19,6 @@ Join the community of professionals transcending the "9-to-5" to build true auth
 * 🌐 **[Official Website](https://davidyeti.com)** - The FI Blueprint & Technical Lab
 * 💼 **[LinkedIn](https://www.linkedin.com/in/davidyeti/)** - Professional Consulting Profile
 ---
-## ⚡ The Rainmaker Philosophy
+## ☔ The Rainmaker Philosophy
 I believe technical excellence is the ultimate lever for financial freedom. I balance deep-work engineering with strategic consulting—proving that with the right blueprint, any aspiring tech professional can achieve **Rainmaker** status.
 
