@@ -1,24 +1,20 @@
-# David Yeti | DevSecOps Architect & Technical Consultant 💰
+<div align="center">
 
-I architect secure cloud systems and bridge the gap between complex technical infrastructure and high-level **Business ROI**. As the founder of **The FI Blueprint**, I document the technical and financial path to achieving $100K+ in the modern tech landscape.
+```
+╔══════════════════════════════════════════════════════════════╗
+║          COMPLIANCE ENGINEER  →  DEVSECOPS                  ║
+║          Building the bridge in public.                      ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+# David — @DavidYeti
+
+**Security Engineer · Cloud Compliance · Future DevSecOps**
+
+[![Website](https://img.shields.io/badge/🌐_Portfolio-davidyeti.com-1B4F8C?style=for-the-badge)](https://davidyeti.com)
+[![YouTube](https://img.shields.io/badge/▶_YouTube-@davidyeti-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/@davidyeti)
+[![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-EA0000?style=for-the-badge&logo=comptia)](https://www.comptia.org)
+
+</div>
 
 ---
-## Technical Focus & Documentation 🧠
-I am currently architecting and documenting production-ready environments focusing on **AWS, Kubernetes, and DevSecOps** automation.
-
-* 🧠 **Study Hall:** Deep-dive technical documentation for AWS Professional, CISSP, and SANS mastery.
-* 🚀 **The FI Blueprint:** Engineering the roadmap from entry-level to high-authority technical roles.
-* 💰 **Hustletology:** Strategic analysis of market shifts, career scaling, and financial independence.
-
----
-## The Rainmaker Ecosystem 📫
-Join the community of professionals transcending the "9-to-5" to build true authority:
-
-* 📺 **[YouTube](https://www.youtube.com/@davidyeti)** - Technical Architecture & Career Strategy
-* 📱 **[TikTok](https://www.tiktok.com/@iamdavidyeti)** - Short-form Technical Strategy & FI Blueprint
-* 🌐 **[Official Website](https://davidyeti.com)** - The FI Blueprint & Technical Lab
-* 💼 **[LinkedIn](https://www.linkedin.com/in/davidyeti/)** - Professional Consulting Profile
----
-## ☔ The Rainmaker Philosophy
-I believe technical excellence is the ultimate lever for financial freedom. I balance deep-work engineering with strategic consulting—proving that with the right blueprint, any aspiring tech professional can achieve **Rainmaker** status.
-
