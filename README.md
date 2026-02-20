@@ -2,8 +2,8 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║     COMPLIANCE ENGINEER  →  SECURITY AUTOMATION ENGINEER   ║
-║     Building the bridge in public.                          ║
+║          CLOUD COMPLIANCE  ·  SECURITY AUTOMATION          ║
+║          Building in public.                               ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -26,10 +26,10 @@ framework mapping** — translating complex cloud environments into auditable, e
 compliance postures using frameworks like NIST 800-53, CCF, and SOC 2.
 
 This GitHub is where I document that work publicly — control mappings, governance frameworks,
-and the applied knowledge I'm accumulating on the road from compliance engineering to DevSecOps.
+and the applied knowledge I'm accumulating working at the intersection of compliance and security automation.
 
-> **The goal:** Become an L6/L7 individual contributor DevSecOps engineer with deep compliance
-> roots, cloud architecture authority, and eventually — my own federal cybersecurity practice.
+> **The focus:** Deep expertise in security automation at the infrastructure and pipeline layer —
+> taking any compliance requirement and making it machine-enforceable at scale.
 
 ---
 
@@ -38,27 +38,28 @@ and the applied knowledge I'm accumulating on the road from compliance engineeri
 ```yaml
 domains:      Cloud Compliance | Security Automation | Control Framework Mapping
 frameworks:   NIST 800-53 | CCF | SOC 2 | FedRAMP
-building:     Compliance foundation → security automation portfolio
+building:     Control mapping → security automation in code
 learning:     AWS Solutions Architect Associate | CISA prep
-next:         AWS Security Specialty → Terraform → CCNP → CCSP
+studying:     CISA | AWS Solutions Architect Associate
 ```
 
 ---
 
 ## The Certification Roadmap
 
-I certify in parallel with hands-on experience — not before it.
+Every credential deepens something I am already applying in practice.
 
-```
-2025  ──── AWS Solutions Architect Associate
-      ──── CISA
+```  
+2025  ──── CompTIA Security+            ← core cybersecurity functions
 
-2026  ──── AWS Security Specialty       ← automation targets
+2026  ──── AWS SAA                      ← design cloud infrastructure
+      ──── CISA                         ← reduce infrastructure risk
+      ──── AWS Security Specialty       ← automation targets
       ──── Terraform Associate          ← expert track foundation
-      ──── CCNP                         ← Cisco differentiator
-      ──── CCSP                         ← federal + J2 stack
-
-2027  ──── CKA (Kubernetes Admin)       ← runtime enforcement
+      ──── CCNP                         ← enterprise network infrastructure
+     
+2027  ──── CCSP                         ← data & application security
+      ──── CKA (Kubernetes Admin)       ← runtime enforcement
       ──── AWS SAP                      ← architecture authority
       ──── SANS SEC540                  ← capstone
 ```
@@ -83,7 +84,7 @@ and it's how practitioners actually learn.
 ## Writing & Videos
 
 I publish short technical explainers on cloud compliance, control frameworks,
-and the compliance → DevSecOps career path.
+and security automation for practitioners.
 
 📺 **YouTube:** [youtube.com/@davidyeti](https://youtube.com/@davidyeti)
 🌐 **Site:** [davidyeti.com](https://davidyeti.com)
@@ -93,13 +94,13 @@ and the compliance → DevSecOps career path.
 ## Background
 
 - **Credential:** CompTIA Security+
-- **Studying:** Computer Engineering — GSU Perimeter
+- **Studying:** Computer Engineering — GSU Perimeter College
 - **Domain experience:** Cloud compliance, control framework mapping, security architecture
-- **Building toward:** Security Automation Engineer → DevSecOps IC → Federal Cybersecurity Practice
+- **Focus:** Cloud compliance, security automation, and the engineering craft.
 
-I came into security engineering through a technical sales background — almost two years 
-working with enterprise security teams before moving to the engineering side. That experience 
-gave me something most security engineers lack: I understand why controls exist, not just how
+I came into security engineering through a technical sales background — two years working
+with enterprise security teams before moving to the engineering side. That experience gave
+me something most security engineers lack: I understand why controls exist, not just how
 to implement them. That context is what makes security automation meaningful rather than
 mechanical.
 
