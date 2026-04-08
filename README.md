@@ -14,7 +14,7 @@
 [![Website](https://img.shields.io/badge/🌐_davidyeti.com-0a0f1e?style=for-the-badge)](https://davidyeti.com)
 [![YouTube](https://img.shields.io/badge/▶_YouTube-@DavidYeti-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/@DavidYeti)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-davidyeti-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/davidyeti)
-[![CompTIA Security+](https://img.shields.io/badge/Security%2B-Certified-EA0000?style=for-the-badge&logo=comptia)](https://www.comptia.org)
+[![CompTIA Security+](https://img.shields.io/badge/Security%2B-Certified-EA0000?style=for-the-badge&logo=comptia)](https://www.credly.com/users/davidyeti)
 
 </div>
 
@@ -49,7 +49,7 @@ active repo:  AWS NIST 800-53 Compliance Reference Lab
 status:       Configuration Management domain in progress
 ```
 
-**[→ AWS NIST 800-53 Compliance Reference Lab](https://github.com/DavidYeti)**
+**[→ AWS NIST 800-53 Compliance Reference Lab](https://github.com/DavidYeti/aws-nist800-53-compliance-lab)**
 Documenting how AWS native services satisfy NIST 800-53 Rev 5 controls.
 Configuration Management domain in progress — mapping CM controls to
 AWS Config, Systems Manager, and CloudFormation.
@@ -94,13 +94,13 @@ studying for CISA, and building the NIST 800-53 lab alongside real compliance wo
 
 I document the journey across two series:
 
-📺 **[The Lab](https://youtube.com/@DavidYeti)** — hands-on cloud compliance, NIST control
+📺 **[The Lab](https://www.youtube.com/playlist?list=PLH63k_nzflR2OVFrf_3ZrXI3bma_Hz8GD)** — hands-on cloud compliance, NIST control
 mapping, AWS security, and GitHub walkthroughs.
 
-📺 **[The Bridge](https://youtube.com/@DavidYeti)** — career transition, certifications,
+📺 **[The Bridge](https://www.youtube.com/playlist?list=PLH63k_nzflR1qvx_jgGO7Tk4I4qmQJl5C)** — career transition, certifications,
 day-in-the-life, and the mindset behind building a compliance engineering career.
 
-💰 **[Slow Money](https://youtube.com/@DavidYeti)** — financial strategy and wealth building
+💰 **[Slow Money](https://www.youtube.com/playlist?list=PLH63k_nzflR12-oMVGKXZeg_DhXp41tt-)** — financial strategy and wealth building
 for the long game.
 
 ---
