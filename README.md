@@ -3,7 +3,7 @@
 ```
   ┌─────────────────────────────────────────────────────────┐
   │   COMPLIANCE ENGINEERING  ·  BUILDING IN PUBLIC         │
-  │   Making the world a safer place, one server at a time. │
+  │   Making the world a safer place, one server at a time! │
   └─────────────────────────────────────────────────────────┘
 ```
 
@@ -43,7 +43,7 @@ compliance frameworks, one control at a time.
 
 ```yaml
 focus:        Cloud Compliance · Security Automation · Control Framework Mapping
-frameworks:   NIST 800-53 Rev 5 · SOC 2 · CCF · PCI DSS
+frameworks:   SOC 2 · CCF · PCI DSS · NIST 800-53 Rev 5 ·
 platforms:    AWS · Cloud Security Architecture
 active repo:  AWS NIST 800-53 Compliance Reference Lab
 status:       Configuration Management domain in progress
@@ -61,15 +61,18 @@ AWS Config, Systems Manager, and CloudFormation.
 Every credential maps to something I'm already applying in practice.
 
 ```
-  ✅ 2025  CompTIA Security+             ← earned
+  ✅2025  CompTIA Security+             ← earned
 
-  ◯ 2026  CISA ─────────────── May      ← audit & governance
-     2026  AWS SAA ──────────── Jun      ← cloud architecture
+  ◯ 2026  CISA ─────────────── June     ← audit & governance
      2026  CCNA ─────────────── Aug      ← network infrastructure
-     2026  AWS Security ─────── Oct      ← cloud security depth
+     2026  CCNP ─────────────── Nov      ← network infrastructure enterprise
 
-     2027  CCSP ─────────────── Jan      ← cloud security governance
-     2027  PCI DSS ──────────── Mar      ← payment security compliance
+     2027  AWS SAA ──────────── Jan      ← cloud architecture
+     2027  AWS Security ─────── Apr      ← cloud security depth
+     2027  C3PAO ────────────── Nov      ← cmmc audit preparation
+
+     2028  CCSP ─────────────── Jan      ← cloud security governance
+     2028  PCI DSS ──────────── Mar      ← payment security compliance
 ```
 
 ---
