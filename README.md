@@ -54,18 +54,17 @@ Three Python tools for automating AI governance assessments based on ISO 42001. 
 Every credential maps to something I'm already applying in practice.
 
 ```
-  ✅2025  CompTIA Security+             ← earned
+  ✅2025  CompTIA Security+              ← earned
 
-  ◐ 2026  CISA ─────────────── June 5   ← in progress · exam scheduled
+  ◐ 2026  CISA ─────────────── June      ← in progress · exam scheduled
      2026  CCNA ─────────────── Aug      ← network infrastructure
      2026  CCNP ─────────────── Nov      ← network infrastructure enterprise
 
      2027  AWS SAA ──────────── Jan      ← cloud architecture
+     2027  C3PAO ────────────── Mar      ← cmmc audit preparation
      2027  AWS Security ─────── Apr      ← cloud security depth
-     2027  C3PAO ────────────── Nov      ← cmmc audit preparation
 
      2028  CCSP ─────────────── Jan      ← cloud security governance
-     2028  PCI DSS ──────────── Mar      ← payment security compliance
 ```
 
 ---
