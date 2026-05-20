@@ -24,7 +24,7 @@
 
 I am a security professional transitioning into **AI security and compliance engineering** — working at the intersection of **AI governance**, **cloud compliance**, **control framework mapping**, and **security automation**.
 
-Currently pursuing an **AI Security Engineer** role at Cisco's Security and Trust Organization while simultaneously building an independent AI governance toolkit and compliance consulting firm called **Securtopia LLC**. I have two years embedded in a Fortune 50 Security and Trust Organization conducting SOC 2 control implementation review, and I am now applying that foundation to the emerging field of AI governance using the **ISO 42001** framework.
+Currently pursuing an **AI Security Engineer** role at Cisco's Security Organization while simultaneously building an independent AI governance toolkit and compliance consulting firm called **Securtopia LLC**. I have two years embedded in a Fortune 50 Security Organization conducting SOC 2 control implementation review, and I am now applying that foundation to the emerging field of AI governance using the **ISO 42001** framework.
 
 This GitHub is where I build in public — documenting how cloud infrastructure maps to
 compliance frameworks, one control at a time.
