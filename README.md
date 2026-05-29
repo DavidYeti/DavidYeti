@@ -24,7 +24,7 @@
 
 I am a security professional transitioning into **AI security and compliance engineering** — working at the intersection of **AI governance**, **cloud compliance**, **control framework mapping**, and **security automation**.
 
-Currently pursuing an **AI Security Engineer** role at Cisco's Security Organization while simultaneously building an independent AI governance toolkit and compliance consulting firm called **Securtopia LLC**. I have two years embedded in a Fortune 50 Security Organization conducting SOC 2 control implementation review, and I am now applying that foundation to the emerging field of AI governance using the **ISO 42001** framework.
+Currently pursuing an **AI Security Engineer** role while simultaneously building an independent AI governance toolkit and compliance consulting firm called **Securtopia LLC**. I have two years embedded in a Fortune 50 Security Organization conducting SOC 2 control implementation review, and I am now applying that foundation to the emerging field of AI governance using the **ISO 42001** framework.
 
 This GitHub is where I build in public — documenting how cloud infrastructure maps to
 compliance frameworks, one control at a time.
@@ -38,14 +38,14 @@ compliance frameworks, one control at a time.
 
 ```yaml
 focus:        AI Governance · Cloud Compliance · Security Automation · Control Framework Mapping
-frameworks:   ISO 42001 · SOC 2 · NIST AI RMF · NIST 800-53 · CMMC · FedRAMP
+frameworks:   ISO 42001 · ISO 27017 · ISO 27018 · SOC 2 · NIST AI RMF · NIST 800-53 · CMMC · FedRAMP 
 platforms:    AWS · Python · Terraform · GitHub Actions
 active repo:  AI Governance Toolkit
-status:       Three projects live — ISO 42001 checker, AI intake automation, Claude-powered standup bot
+status:       Three projects live — multi-framework checker, AI intake automation
 ```
 
 **[→ AI Governance Toolkit](https://github.com/DavidYeti/ai-governance-toolkit)**  
-Three Python tools for automating AI governance assessments based on ISO 42001. Includes an ISO 42001 control checker, an AI tool intake automation system with risk scoring and JSON audit log, and a Claude-powered morning briefing assistant with full life architecture context.
+Three Python tools for automating AI governance assessments based on ISO 42001, 27017 and 27018. Includes an multi framework control checker and an AI tool intake automation system with risk scoring and JSON audit log.
 
 ---
 
