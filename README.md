@@ -25,7 +25,7 @@
 
 I am a GRC Automation Engineer working at the intersection of **AI governance**, **compliance automation**, and **Security for AI** — the discipline of assessing and governing AI systems themselves, not using AI to detect threats.
 
-Two years at Cisco Systems — the last four months actively embedded in the Security and Trust Organization conducting live SOC 2 control implementation reviews across identity and access management and change management domains. I map controls across frameworks, identify gaps, build Python tooling that automates the evidence collection and reporting cycle, and deliver findings to engineering and product leadership.
+Two years at a Fortune 50 security company — the last four months actively embedded in the Security and Trust Organization conducting live SOC 2 control implementation reviews across identity and access management and change management domains. I map controls across frameworks, identify gaps, build Python tooling that automates the evidence collection and reporting cycle, and deliver findings to engineering and product leadership.
 
 The focus right now is the intersection that almost nobody owns: the compliance engineer who can also assess the security risk of an LLM deployment, map it to the OWASP LLM Top 10 and NIST AI RMF, and build the tooling that makes the assessment continuous rather than point-in-time.
 
