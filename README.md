@@ -91,8 +91,8 @@ Every credential maps directly to something in active use or the next stop on th
 
      2026   AWS Solutions Architect Assoc.  ← cloud architecture foundation
      2026   SANS SEC545                     ← Gen AI & LLM Security · work study · Sep/Nov 2026
-     2026   ISO 42001 Lead Implementer      ← AI governance depth · Securtopia differentiator
 
+     2027   ISO 42001 Lead Implementer      ← AI governance depth · Securtopia differentiator
      2027   AWS Security Specialty          ← primary salary multiplier · cloud security lane
      2027   HashiCorp Terraform Associate   ← infrastructure as code for compliance automation
 
